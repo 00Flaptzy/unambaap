@@ -1,5 +1,7 @@
 package com.example.unambaap;
 
-public class Item2holamundo {
-    
+public class HolaMundo {
+    public static void main(String[] args) {
+        System.out.println("Hola Mundo");
+    }
 }
